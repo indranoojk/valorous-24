@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc5f2f65.css",
+    "main.js": "/static/js/main.6596f198.js",
+    "static/js/592.c6d74c1e.chunk.js": "/static/js/592.c6d74c1e.chunk.js",
+    "static/media/ashvani photoshoop.png": "/static/media/ashvani photoshoop.e90efedd2178a7603eb1.png",
+    "static/media/v png.png": "/static/media/v png.afcdaf699a04b8f9dda2.png",
+    "static/media/and edited.png": "/static/media/and edited.a11a30340684ab2fb376.png",
+    "index.html": "/index.html",
+    "main.cc5f2f65.css.map": "/static/css/main.cc5f2f65.css.map",
+    "main.6596f198.js.map": "/static/js/main.6596f198.js.map",
+    "592.c6d74c1e.chunk.js.map": "/static/js/592.c6d74c1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc5f2f65.css",
+    "static/js/main.6596f198.js"
+  ]
+}
